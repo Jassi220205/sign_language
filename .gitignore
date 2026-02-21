@@ -1,0 +1,18 @@
+# Environments
+.venv/
+asl_env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Training outputs
+asl_runs/
+
+# Dataset
+test/
+val/
+
+# OS files
+.DS_Store
+Thumbs.db
