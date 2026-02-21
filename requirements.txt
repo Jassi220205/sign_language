@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+torch
+torchvision
+mediapipe==0.10.9
+matplotlib
+pandas
